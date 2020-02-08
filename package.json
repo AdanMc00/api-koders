@@ -1,0 +1,19 @@
+{
+  "name": "api-koders",
+  "version": "1.0.0",
+  "description": "API-koders",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "standard": "^14.3.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
